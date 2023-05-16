@@ -1,5 +1,0 @@
-UPDATE `labmate`
-SET `FirstName` = '芷婷2'
-WHERE `FirstName` = '芷婷';
-
-INSERT INTO `labmate`(`LastName`, `FirstName`, `Gmail`) VALUES ('沈', '芷婷', 'tina910723@gmail.com');
